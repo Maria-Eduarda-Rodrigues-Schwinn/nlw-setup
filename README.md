@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
--[Visite o projeto online](https://maria-eduarda-rodrigues-schwinn.github.io/nlw-setup/)
+-[ Visite o projeto online](https://maria-eduarda-rodrigues-schwinn.github.io/nlw-setup/)
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
